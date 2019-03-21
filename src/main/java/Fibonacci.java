@@ -24,8 +24,8 @@
  *
  */
 /*
+/*/
 
- */
 public class Fibonacci {
     public static void main(String[] args) {
         //定义一个数组
